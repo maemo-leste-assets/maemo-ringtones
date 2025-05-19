@@ -1,46 +1,46 @@
 [SMS]
-"Message 1" /usr/share/sounds/Message1.aac
-"Message 2" /usr/share/sounds/Message2.aac
-"Message 3" /usr/share/sounds/Message3.aac
-"Message 4" /usr/share/sounds/Message4.aac
-"Message 5" /usr/share/sounds/Message5.aac
-"Beep"      /usr/share/sounds/Beep.aac
+"Message 1" /usr/share/sounds/Message1.ogg
+"Message 2" /usr/share/sounds/Message2.ogg
+"Message 3" /usr/share/sounds/Message3.ogg
+"Message 4" /usr/share/sounds/Message4.ogg
+"Message 5" /usr/share/sounds/Message5.ogg
+"Beep"      /usr/share/sounds/Beep.ogg
 
 [IM]
 "Chat 1"    /usr/share/sounds/chat-msg_in_bg.wav
 "Chat 2"    /usr/share/sounds/chat-msg_in_bg_2.wav
 "Chat 3"    /usr/share/sounds/chat-msg_in_bg_3.wav
 "Chat 4"    /usr/share/sounds/chat-msg_in_bg_4.wav
-"Beep"      /usr/share/sounds/Beep.aac
+"Beep"      /usr/share/sounds/Beep.ogg
 
 [EMAIL]
-"Email 1"   /usr/share/sounds/Email1.aac
-"Email 2"   /usr/share/sounds/Email2.aac
-"Beep"      /usr/share/sounds/Beep.aac
+"Email 1"   /usr/share/sounds/Email1.ogg
+"Email 2"   /usr/share/sounds/Email2.ogg
+"Beep"      /usr/share/sounds/Beep.ogg
 
 
 [RINGTONE]
-"Astrosphere"	/usr/share/sounds/Astrosphere.aac
-"Astrum"	/usr/share/sounds/Astrum.aac
-"Atmos"		/usr/share/sounds/Atmos.aac
-"Beep"          /usr/share/sounds/Beep.aac
-"Bicycle"	/usr/share/sounds/Bicycle.aac
-"Earthen"	/usr/share/sounds/Earthen.aac
-"Electra"	/usr/share/sounds/Electra.aac
-"Flying Colours" /usr/share/sounds/FlyingColours.aac
-"Gradient"	/usr/share/sounds/Gradient.aac
-"Ice Tone"	/usr/share/sounds/IceTone.aac
-"Low"		/usr/share/sounds/Low.aac
-"Lumina"	/usr/share/sounds/Lumina.aac
-"Mirror Image"	/usr/share/sounds/MirrorImage.aac
-"Nokia Tune"    /usr/share/sounds/Nokia_tune.aac
-"Outer Space"	/usr/share/sounds/OuterSpace.aac
-"Ploptic"	/usr/share/sounds/Ploptic.aac
-"Solenoid"	/usr/share/sounds/Solenoid.aac
-"Sublite"       /usr/share/sounds/Sublite.aac
-"Sublunar"	/usr/share/sounds/Sublunar.aac
-"Telegraph"	/usr/share/sounds/Telegraph.aac
-"Temporal"	/usr/share/sounds/Temporal.aac
-"Terrestial"	/usr/share/sounds/Terrestial.aac
-"Tinker"	/usr/share/sounds/Tinker.aac
-"Transcend"	/usr/share/sounds/Transcend.aac
+"Astrosphere"	/usr/share/sounds/Astrosphere.ogg
+"Astrum"	/usr/share/sounds/Astrum.ogg
+"Atmos"		/usr/share/sounds/Atmos.ogg
+"Beep"          /usr/share/sounds/Beep.ogg
+"Bicycle"	/usr/share/sounds/Bicycle.ogg
+"Earthen"	/usr/share/sounds/Earthen.ogg
+"Electra"	/usr/share/sounds/Electra.ogg
+"Flying Colours" /usr/share/sounds/FlyingColours.ogg
+"Gradient"	/usr/share/sounds/Gradient.ogg
+"Ice Tone"	/usr/share/sounds/IceTone.ogg
+"Low"		/usr/share/sounds/Low.ogg
+"Lumina"	/usr/share/sounds/Lumina.ogg
+"Mirror Image"	/usr/share/sounds/MirrorImage.ogg
+"Nokia Tune"    /usr/share/sounds/Nokia_tune.ogg
+"Outer Space"	/usr/share/sounds/OuterSpace.ogg
+"Ploptic"	/usr/share/sounds/Ploptic.ogg
+"Solenoid"	/usr/share/sounds/Solenoid.ogg
+"Sublite"       /usr/share/sounds/Sublite.ogg
+"Sublunar"	/usr/share/sounds/Sublunar.ogg
+"Telegraph"	/usr/share/sounds/Telegraph.ogg
+"Temporal"	/usr/share/sounds/Temporal.ogg
+"Terrestial"	/usr/share/sounds/Terrestial.ogg
+"Tinker"	/usr/share/sounds/Tinker.ogg
+"Transcend"	/usr/share/sounds/Transcend.ogg
